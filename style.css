@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #ec715f;
+  width: 100%;
+  height: 70px;
+}
+
+.in-header {
+  width: 1024px;
+}
+
+nav {
+  width: 1024px;
+}
